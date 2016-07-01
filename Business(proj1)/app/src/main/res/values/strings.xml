@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="company_google">Company : Google</string>
+    <string name="about"><b>About Google</b> : is an American multinational technology company specializing in Internet-related services and products. These include online advertising technologies, search, cloud computing, and software</string>
+</resources>
